@@ -1,3 +1,5 @@
 env/
 *.pyc
+__pycache__
 fbapp/__pycache__/
+.gitignore
